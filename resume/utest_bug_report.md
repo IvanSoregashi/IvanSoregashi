@@ -5,6 +5,7 @@ Title: Tecno Pova 2 - Discount Calculator - Crash upon calculating discount
 Tester: Ivan Shiriaev
 Severity: High
 Priority: ####
+
 Issue type: Crash
 Source: Exploratory Testing
 Frequency: Every Time
