@@ -1,11 +1,14 @@
 ID: 0000000
+
 Title: Tecno Pova 2 - Discount Calculator - Crash upon calculating discount
+
 Tester: Ivan Shiriaev
 Severity: High
 Priority: ####
 Issue type: Crash
 Source: Exploratory Testing
 Frequency: Every Time
+
 Environment: Tecno Pova 2 - Android 12, GSM Kazakhstan K'Cell
 
 Actions Performed:
