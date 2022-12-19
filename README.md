@@ -19,4 +19,4 @@ Temporary CV https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA
 ## Portfolio
 ### Bug reports
 
-![Stangartized utest.com bug-report] (https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md "Link to markdown file on github")
+![utest] (https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md)
