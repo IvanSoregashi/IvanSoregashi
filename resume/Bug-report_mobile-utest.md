@@ -2,7 +2,7 @@
 
 **Title**: Tecno Pova 2 - Discount Calculator - Crash upon calculating discount
 
-**Tester**: Ivan Shiriaev
+**Tester**: Ivan Shiriaev\n
 **Severity**: High
 **Priority**: ####
 
