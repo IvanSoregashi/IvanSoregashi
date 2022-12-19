@@ -36,7 +36,9 @@ App crashes upon tapping 'Calculate' button.
 ***
 
 **Attachment**: Android_Studio_logcat.txt
+
 **Attachment**: Video_recording.mp4
+
 **Attachment**:
-(![Screenshot_Attachment.jpg](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/Bug0000000_Screenshot.png "Screenshot")
+![Screenshot_Attachment.jpg](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/Bug0000000_Screenshot.png "Screenshot")
 
