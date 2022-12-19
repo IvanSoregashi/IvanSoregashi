@@ -1,6 +1,10 @@
 [![Header](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/work-in-progress.png)](https://github.com/IvanSoregashi/)
 ### About Me
-Looking for work in QA field
+I am junior QA Engineer with a passion for improving the quality of the products and user experience.
+Open to new projects and new expiriences, fast learner, hardworking.
+
+### CV
+Temporary CV https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -11,3 +15,8 @@ Looking for work in QA field
 ![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
+### Portfolio
+#### Bug reports
+
+[Stangartized bug-report I learned to write during work on utest.com] (https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md "Link to markdown file on github")
