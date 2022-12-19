@@ -2,15 +2,21 @@
 
 **Title**: Tecno Pova 2 - Discount Calculator - Crash upon calculating discount
 
-**Tester**: Ivan Shiriaev\n
+**Tester**: Ivan Shiriaev
+
 **Severity**: High
+
 **Priority**: ####
 
 **Issue type**: Crash
+
 **Source**: Exploratory Testing
+
 **Frequency**: Every Time
 
 **Environment**: Tecno Pova 2 - Android 12, GSM Kazakhstan K'Cell
+
+***
 
 **Actions Performed**:
 
@@ -26,6 +32,8 @@
 
 **Actual Result**:
 App crashes upon tapping 'Calculate' button.
+
+***
 
 **Attachment**: Android_Studio_logcat.txt
 **Attachment**: Video_recording.mp4
