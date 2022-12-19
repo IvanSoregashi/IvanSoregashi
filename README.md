@@ -4,7 +4,7 @@ I am junior QA Engineer with a passion for improving the quality of the products
 Open to new projects and new expiriences, fast learner, hardworking.
 
 ## CV
-Temporary CV https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf
+Temporary [CV](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf "generated pdf")
 
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
@@ -19,4 +19,4 @@ Temporary CV https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA
 ## Portfolio
 ### Bug reports
 
-![Header] (https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md)
+Stangartized utest.com [bug-report](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md  "Link to markdown file on github")
