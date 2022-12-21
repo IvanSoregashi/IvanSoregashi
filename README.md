@@ -3,9 +3,6 @@
 I am junior QA Engineer with a passion for improving the quality of the products and user experience.
 Open to new projects and new expiriences, fast learner, hardworking.
 
-## CV
-Link to [Temporary CV](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf "generated pdf")
-
 ## Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
@@ -24,4 +21,12 @@ Stangartized utest.com [**bug-report**](https://github.com/IvanSoregashi/IvanSor
 
 ### Test-case
 
-Work in progress on example test case
+Work in progress on example test case on GURU99 Bank practice project
+
+
+## CV
+Link to [Temporary CV](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf "hh generated pdf")
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ivan-shiriaev/ "LinkedIn Prifile")
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Affliction8 "Telegram")
