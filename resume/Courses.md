@@ -1,5 +1,5 @@
 # Testing from the beginning. Web, Mobile, Postman, SQL, Git, Bash
-[QA Cert](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/UC-66956292-c888-4049-a1ac-fdf31046926e.jpg)
+![QA Cert](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/UC-66956292-c888-4049-a1ac-fdf31046926e.jpg)
 Certificate: https://www.udemy.com/certificate/UC-66956292-c888-4049-a1ac-fdf31046926e/
 
 
