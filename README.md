@@ -27,7 +27,7 @@ Work in progress on example test case on GURU99 Bank practice project
 ## CV
 Link to [Temporary CV](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf "hh generated pdf")
 
-Courses and Certificates
+[Courses](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Courses.md "Courses I have passed") and Certificates
 
 ## Social
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ivan-shiriaev/ "LinkedIn Prifile")
