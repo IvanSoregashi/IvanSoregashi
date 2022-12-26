@@ -3,9 +3,20 @@
 I am junior QA Engineer with a passion for improving the quality of the products and user experience.
 Open to new projects and new expiriences, fast learner, hardworking.
 
-## Language and Tools
+## Understanding of code
 
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7 "Python")
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7 "Python")
+3/10 Can understand and write simple code
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript")
+1/10 Can read code
+![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C++&logoColor=8cc4d7 "C++")
+1/10 Can read code
+![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=C#&logoColor=8cc4d7 "C#")
+1/10 Can read code
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
+3/10 Can read, write SQL querries of easy and middle difficulty
+
+## Tools
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1 "Jira")
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935 "Postman")
