@@ -4,6 +4,9 @@ I am junior QA Engineer with a passion for improving the quality of the products
 Open to new projects and new expiriences, fast learner, hardworking.
 
 ## Language and Tools
+
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7 "Python")
+
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1 "Jira")
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935 "Postman")
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7 "Git/Github")
@@ -20,11 +23,11 @@ Stangartized utest.com [**bug-report**](https://github.com/IvanSoregashi/IvanSor
 
 ### Checklist
 
-GURU99 Bank practice unit-testing [**Checklist**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.png "picture").
+GURU99 Bank practice unit-testing [**Checklist**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.PNG "picture of google sheet").
 
 ### Test-case
 
-GURU99 Bank practice integration-testing [**Test-cases**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.png "picture").
+GURU99 Bank practice integration-testing [**Test-cases**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.PNG "picture of google sheet").
 
 
 ## CV
