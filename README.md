@@ -14,7 +14,7 @@ Open to new projects and new expiriences, fast learner, hardworking.
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C++&logoColor=8cc4d7 "C++")
 1/10 Can read code
 
-![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=C#&logoColor=8cc4d7 "C#")
+![C#](https://img.shields.io/badge/Csharp-090909?style=for-the-badge&logo=Csharp&logoColor=8cc4d7 "C#")
 1/10 Can read code
 
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
