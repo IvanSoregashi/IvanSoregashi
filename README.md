@@ -1,7 +1,7 @@
 [![Header](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/work-in-progress.png)](https://github.com/IvanSoregashi/)
 ## About Me
 I am junior QA Engineer with a passion for improving the quality of the products and user experience.
-Open to new projects and new expiriences, fast learner, hardworking.
+Open to new projects and new expiriences, fast learner, hardworking..
 
 ## Understanding of code
 
