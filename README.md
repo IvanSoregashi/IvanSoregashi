@@ -18,10 +18,13 @@ Open to new projects and new expiriences, fast learner, hardworking.
 
 Stangartized utest.com [**bug-report**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md  "Link to markdown file on github")
 
+### Checklist
+
+GURU99 Bank practice unit-testing [**Checklist**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.png "picture").
 
 ### Test-case
 
-Work in progress on example test case on GURU99 Bank practice project
+GURU99 Bank practice integration-testing [**Test-cases**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.png "picture").
 
 
 ## CV
