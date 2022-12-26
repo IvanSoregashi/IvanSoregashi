@@ -7,12 +7,16 @@ Open to new projects and new expiriences, fast learner, hardworking.
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7 "Python")
 3/10 Can understand and write simple code
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript")
 1/10 Can read code
+
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C++&logoColor=8cc4d7 "C++")
 1/10 Can read code
+
 ![C#](https://img.shields.io/badge/C#-090909?style=for-the-badge&logo=C#&logoColor=8cc4d7 "C#")
 1/10 Can read code
+
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
 3/10 Can read, write SQL querries of easy and middle difficulty
 
