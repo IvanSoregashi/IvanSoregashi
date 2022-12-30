@@ -48,8 +48,6 @@ GURU99 Bank practice integration-testing [**Test-cases**](https://github.com/Iva
 ## CV
 Link to [Temporary CV](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/SIA.pdf "hh generated pdf")
 
-[Courses](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Courses.md "Courses I have passed") and Certificates
-
 ## Social
 [![LinkedIn](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/ivan-shiriaev/ "LinkedIn Prifile")
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/Affliction8 "Telegram")
