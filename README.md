@@ -6,7 +6,7 @@ Open to new projects and new expiriences, fast learner, hardworking.
 ## Understanding of code
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7 "Python")
-* 4/10 Can understand and write simple code, some understanding of OOP
+* 7/10 Good understanding of language and OOP
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript")
 * 1/10 Can read code
