@@ -1,12 +1,15 @@
 [![Header](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/work-in-progress.png)](https://github.com/IvanSoregashi/)
 ## About Me
-I am junior QA Engineer with a passion for improving the quality of the products and user experience.
-Open to new projects and new expiriences, fast learner, hardworking.
+I am QA Engineer with a passion for improving the quality of the products and user experience.
+Open to new projects and new expiriences, fast and constant learner, hardworking.
 
 ## Understanding of code
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7 "Python")
 * 7/10 Good understanding of language and OOP
+
+![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
+* 4/10 Can read, write SQL querries of easy and middle difficulty
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript")
 * 1/10 Can read code
@@ -16,9 +19,6 @@ Open to new projects and new expiriences, fast learner, hardworking.
 
 ![C#](https://img.shields.io/badge/C_Sharp-090909?style=for-the-badge&logo=Csharp&logoColor=8cc4d7 "C#")
 * 1/10 Can read code
-
-![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
-* 3/10 Can read, write SQL querries of easy and middle difficulty
 
 ## Tools
 
