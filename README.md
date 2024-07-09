@@ -28,14 +28,19 @@ Open to new projects and new expiriences, fast and constant learner, hardworking
 ![Qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=136be1 "Qase")
 
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935 "Postman")
-![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python "Python")
-
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7 "Git/Github")
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a "MySQL")
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2 "DevTools")
 ![Android Studio](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=androidstudio&logoColor=3ad07d "Android Studio")
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7 "Fiddler")
 ![Charles Proxy](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7 "Charles Proxy")
+![HTTP toolkit](https://img.shields.io/badge/HTTPtoolkit-090909?style=for-the-badge&logo=httptoolkit&logoColor=8cc4d7 "HTTP toolkit")
+
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python "Python")
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a "MySQL")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a "PostgreSQL")
+
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7 "Git")
+![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7 "Github")
+
 
 ## Portfolio
 ### Bug report
