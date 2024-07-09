@@ -35,11 +35,11 @@ Open to new projects and new expiriences, fast and constant learner, hardworking
 ![HTTP toolkit](https://img.shields.io/badge/HTTPtoolkit-090909?style=for-the-badge&logo=httptoolkit&logoColor=8cc4d7 "HTTP toolkit")
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python "Python")
-![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a "MySQL")
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=00618a "PostgreSQL")
+![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql "MySQL")
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql "PostgreSQL")
 
-![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=8cc4d7 "Git")
-![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7 "Github")
+![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=git&logoColor=f76935 "Git")
+![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=ffffff "Github")
 
 
 ## Portfolio
