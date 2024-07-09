@@ -23,10 +23,13 @@ Open to new projects and new expiriences, fast and constant learner, hardworking
 ## Tools
 
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1 "Jira")
-![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=jira&logoColor=136be1 "Confluence")
-![Zephyr](https://img.shields.io/badge/Zephyr-090909?style=for-the-badge&logo=jira&logoColor=136be1 "Zephyr")
+![Confluence](https://img.shields.io/badge/Confluence-090909?style=for-the-badge&logo=confluence&logoColor=136be1 "Confluence")
+![Zephyr](https://img.shields.io/badge/Zephyr-090909?style=for-the-badge&logo=zephyr&logoColor=136be1 "Zephyr")
+![Qase](https://img.shields.io/badge/Qase-090909?style=for-the-badge&logo=qase&logoColor=136be1 "Qase")
 
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935 "Postman")
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python&logoColor=f76935 "Python")
+
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7 "Git/Github")
 ![MySQL](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a "MySQL")
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2 "DevTools")
