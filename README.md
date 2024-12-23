@@ -1,24 +1,19 @@
 [![Header](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/work-in-progress.png)](https://github.com/IvanSoregashi/)
 ## About Me
-I am QA Engineer with a passion for improving the quality of the products and user experience.
-Open to new projects and new expiriences, fast and constant learner, hardworking.
+Aspiring Backend Engineer with extensive knowledge of Python and Testing. Skilled at reading logs, localizing the defect and find the root cause.
+Love learning about new technologies and use them to enhance manual workflows with automation.
 
 ## Understanding of code
 
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python&logoColor=8cc4d7 "Python")
-* 7/10 Good understanding of language and OOP
+* Basic Structures and Control Flow, OOP, Builtins, Exceptions, Iterators, Generator, Comprehensions, etc
+* FastAPI, Flask, Streamlit, Pandas, boto3, requests, logging, unittest, click, sqlite3, pydantic, dataclasses, re, sockets, etc
 
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
-* 4/10 Can read, write SQL querries of easy and middle difficulty
+* 3/10 Can read, write SQL querries of easy and middle difficulty
 
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript")
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript") ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=8cc4d7 "C++") ![C#](https://img.shields.io/badge/C_Sharp-090909?style=for-the-badge&logo=Csharp&logoColor=8cc4d7 "C#")
 * 0.5/10 Can read code
-
-![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=8cc4d7 "C++")
-* 0.5/10 Could write code at some point in the past, can probably read something
-
-![C#](https://img.shields.io/badge/C_Sharp-090909?style=for-the-badge&logo=Csharp&logoColor=8cc4d7 "C#")
-* 0.5/10 Could write code at some point in the past, can probably read something
 
 ## Tools
 
