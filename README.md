@@ -10,7 +10,7 @@ Love learning about new technologies and use them to enhance manual workflows wi
 * FastAPI, Flask, Streamlit, Pandas, boto3, requests, logging, unittest, click, sqlite3, pydantic, dataclasses, re, sockets, etc
 
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=SQL&logoColor=8cc4d7 "SQL")
-* 3/10 Can read, write SQL querries of easy and middle difficulty
+* Can read, write SQL querries of middle difficulty
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=8cc4d7 "JavaScript") ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=Cplusplus&logoColor=8cc4d7 "C++") ![C#](https://img.shields.io/badge/C_Sharp-090909?style=for-the-badge&logo=Csharp&logoColor=8cc4d7 "C#")
 * 0.5/10 Can read code
