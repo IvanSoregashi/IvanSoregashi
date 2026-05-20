@@ -38,17 +38,6 @@ Love learning about new technologies and use them to enhance manual workflows wi
 
 
 ## Portfolio
-### Bug report
-
-Stangartized utest.com [**bug-report**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/resume/Bug-report_mobile-utest.md  "Link to markdown file on github")
-
-### Checklist
-
-GURU99 Bank practice unit-testing [**Checklist**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.PNG "picture of google sheet").
-
-### Test-case
-
-GURU99 Bank practice integration-testing [**Test-cases**](https://github.com/IvanSoregashi/IvanSoregashi/blob/main/assets/G99_TC.PNG "picture of google sheet").
 
 
 ## CV
